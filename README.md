@@ -1,4 +1,8 @@
 # 딥러닝 알고리즘 최종 프로젝트
+## face_recognition.py
+: 그림(이미지) 색칠해주는 알고리즘
+
+하나의 이미지를 집어넣었을 때, 이미지의 gray scale을 인식한 후 Autoencoder와 ResNet 기술을 이용하여 데이터베이스에 들어있는 이미지의 색체와 비슷하게 회색 음영 이미지를 채색하는 것이 목적이다.
 
 ## image_colorization.py
 [반드시 들어가야 하는 문항]
